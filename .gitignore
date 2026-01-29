@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+videos/
+*.mp4
+*.mkv
+*.avi
+*.log
+.DS_Store
+maintain_repo.py
+create_and_push.py
+repo_prep.py
